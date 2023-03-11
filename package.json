@@ -1,0 +1,14 @@
+{
+  "name": "mp_loja",
+  "version": "1.0.0",
+  "description": "Projeto de automação - Loja online",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Mirlanda Costa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
